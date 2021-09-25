@@ -11,4 +11,4 @@ The documentation of source code during join AI mentorship in IndonesiaAI
 - Review Numpy, Python, Matplotlib
 
 # Final Project
--AirBnB Data Analysis
+- AirBnB Data Analysis
