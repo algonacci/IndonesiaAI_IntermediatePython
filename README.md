@@ -1,5 +1,5 @@
 # IndonesiaAI_IntermediatePython
-The documentation of source code during join AI mentorship in IndonesiaAI 
+The documentation of source code during join AI mentorship in IndonesiaAI.
 
 # Material in this mentoring
 - Numpy 1
